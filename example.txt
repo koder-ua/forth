@@ -1,0 +1,11 @@
+put 1
+put 2
+put 3
+put 6
+print
+add
+sub
+put -1
+print
+pop
+print
