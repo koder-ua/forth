@@ -1,0 +1,5 @@
+Very basic and robust Forth interpreter.
+See def_commands for full list of available commands
+
+If no input file specified, it drops to command line input
+

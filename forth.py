@@ -3,8 +3,6 @@
 """
 Very basic and robust Forth interpreter.
 See def_commands for full list of available commands
-If input file is not specified, will enter infinite loop
-  to ask a command. Ctrl+c to exit
 """
 
 import sys
